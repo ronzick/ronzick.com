@@ -1,4 +1,4 @@
-ronzck.com
+ronzick.com
 ==========
 
 Ronzick.com web site. 
