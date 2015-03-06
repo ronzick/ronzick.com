@@ -1,0 +1,6 @@
+.entry-item .thumb-icon:before {
+        padding-right: 0px;
+}
+.thumb-hover{
+	display: none;
+}
